@@ -1,0 +1,34 @@
+[
+    {
+        "ParameterKey": "DNSRecordSetName",
+        "ParameterValue": "saile-graph-api.net"
+    },
+    {
+        "ParameterKey": "HostedZoneID",
+        "ParameterValue": "Z033911014FBQLW7DRCE7"
+    },
+    {
+        "ParameterKey": "SSLCertARN",
+        "ParameterValue": "arn:aws:acm:us-west-2:555490171138:certificate/a500a83d-80ed-4240-8427-f38d79c6a807"
+    },
+    {
+        "ParameterKey": "ECRImage",
+        "ParameterValue": "555490171138.dkr.ecr.us-west-2.amazonaws.com/hasura-development"
+    },
+    {
+        "ParameterKey": "DBMasterUsername",
+        "ParameterValue": "postgres"
+    },
+    {
+        "ParameterKey": "DBMasterUserPassword",
+        "ParameterValue": "postgrespassword"
+    },
+    {
+        "ParameterKey": "DBName",
+        "ParameterValue": "postgres"
+    },
+    {
+        "ParameterKey": "HasuraAccessKey",
+        "ParameterValue": "letmein1232"
+    }
+]
